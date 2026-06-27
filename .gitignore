@@ -1,0 +1,25 @@
+# Frontend
+rental-property-frontend/node_modules/
+rental-property-frontend/dist/
+rental-property-frontend/.angular/
+
+# Backend
+rental-property-backend/target/
+
+# IntelliJ
+rental-property-backend/.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

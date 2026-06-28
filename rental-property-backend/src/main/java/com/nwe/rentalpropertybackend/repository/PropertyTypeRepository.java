@@ -8,8 +8,8 @@ import java.util.Optional;
 
 public interface PropertyTypeRepository extends JpaRepository<PropertyType, Long> {
 
-    Optional<PropertyType> findByName(String name);
+    Optional<PropertyType> findByNameIgnoreCase(String name);
 
-    boolean existsByName(String name);
+    boolean existsByNameIgnoreCase(String name);
 
 }

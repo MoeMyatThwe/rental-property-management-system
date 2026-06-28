@@ -1,3 +1,4 @@
+// PropertyImage.java
 package com.nwe.rentalpropertybackend.entity;
 
 import jakarta.persistence.*;

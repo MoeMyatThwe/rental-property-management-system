@@ -1,3 +1,4 @@
+//Property.java
 package com.nwe.rentalpropertybackend.entity;
 
 import com.nwe.rentalpropertybackend.entity.enums.AreaUnit;

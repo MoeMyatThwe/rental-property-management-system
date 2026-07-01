@@ -1,3 +1,4 @@
+//UserRole
 package com.nwe.rentalpropertybackend.entity.enums;
 
 public enum UserRole {
